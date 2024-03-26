@@ -1,0 +1,10 @@
+.question_counter{
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+.question_counter_text{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+}
